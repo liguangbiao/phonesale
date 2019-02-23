@@ -48,7 +48,7 @@
         methods: {
             change: function (index) {
                 this.isactive = index
-            }
+            },
         }
 
     }
